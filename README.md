@@ -1,6 +1,10 @@
-Tested with **Python 3.7+**
+# Disclaimer
+
+Personal use branch for a data science project.
 
 # Logs downloader
+
+Tested with **Python 3.7+**
 
 Tools to download phoenix replays from tenhou.net. 
 For example these logs can be useful for machine learning exercises.
